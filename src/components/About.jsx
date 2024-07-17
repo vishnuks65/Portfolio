@@ -44,7 +44,7 @@ const About = () => {
 					developer with experience in
 					TypeScript and JavaScript, and
 					expertise in frameworks like
-					React, Node.js, and Three.js.
+					React and Tailwind css.
 					I'm a quick learner and
 					collaborate closely with
 					clients to create efficient,
