@@ -15,13 +15,9 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
+  youtube,
+  cryptocurrnecy,
+  ipldasboard,
   threejs,
   experion,
 } from "../assets";
@@ -199,30 +195,30 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "ViewTube",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your ViewTube App!",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "material-ui",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "restapi",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: youtube,
+    source_code_link: "https://vishnu-viewtube.netlify.app/",
   },
   {
-    name: "Job IT",
+    name: "Cryptocurrency Tracker",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "cryptocurrency tracker application where user can see available cryptocurrencies and their market price.",
     tags: [
       {
         name: "react",
@@ -237,20 +233,20 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: cryptocurrnecy,
+    source_code_link: "https://vishnucrypto.ccbp.tech/",
   },
   {
-    name: "Trip Guide",
+    name: "IPL Dashboard ",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "IPL Dashboard app where users can list of IPL team, individual team details and respective team matches info.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "restapi",
         color: "green-text-gradient",
       },
       {
@@ -258,8 +254,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: ipldasboard,
+    source_code_link: "https://vishnuipl.ccbp.tech/",
   },
 ];
 

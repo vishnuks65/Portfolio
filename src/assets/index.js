@@ -30,6 +30,9 @@ import experion from "./company/experion.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import youtube from "./youtube.png";
+import cryptocurrnecy from "./cryptocurrnecy.png";
+import ipldasboard from "./ipldasboard.png";
 
 export {
   logo,
@@ -61,4 +64,7 @@ export {
   jobit,
   tripguide,
   experion,
+  youtube,
+  cryptocurrnecy,
+  ipldasboard,
 };
